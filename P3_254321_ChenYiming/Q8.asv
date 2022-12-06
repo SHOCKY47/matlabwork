@@ -1,0 +1,17 @@
+grid on;
+tiledlayout(2,1);
+t=1:0.1:10;
+A=1;
+
+tau=1;
+y=A*exp(-t*tau);
+nexttile;
+plot(t,y,'r');
+title('Plot 1 /tau=1');
+t1=1:0.1:10;
+
+tau=2;
+y=A*exp(-t1*tau);
+nexttile;
+plot(t,y1,'g');
+title('Plot 2 /tau=2');
