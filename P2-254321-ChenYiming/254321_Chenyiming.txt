@@ -1,0 +1,195 @@
+T6
+    2.4145
+
+    2.4145
+
+    2.4145
+
+T3
+
+summ =
+
+     0
+
+   790
+
+T3
+   790
+
+T3
+   790
+
+    14
+
+T3
+   790
+
+    14
+
+        1015
+
+T3
+   790
+
+    14
+
+        1015
+
+T3
+   790
+
+    14
+
+        1015
+
+T3
+   790
+
+    14
+
+        1015
+
+T3
+   790
+
+    14
+
+        1015
+
+T3
+   790
+
+    14
+
+        1015
+
+clear all
+T3
+   790
+
+    14
+
+        1015
+
+T3
+   790
+
+    14
+
+   819
+
+T3
+   790
+
+    14
+
+{错误使用 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mpower')" style="font-weight:bold"> ^ </a>
+用于对矩阵求幂的维度不正确。请检查并确保矩阵为方阵并且幂为标量。要单独对矩阵的每个元素进行运算，请使用 POWER (.^)执行按元素求幂。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('T3', 'E:\Documents\MATLAB\P2-254321-ChenYiming\T3.m', 14)" style="font-weight:bold">T3</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\P2-254321-ChenYiming\T3.m',14,0)">第 14 行</a>)
+y=x^2;
+} 
+T3
+{<a href="matlab: opentoline('E:\Documents\MATLAB\P2-254321-ChenYiming\T3.m',14,3)">文件: T3.m 行: 14 列: 3</a>
+运算符的使用无效。
+} 
+T3
+   790
+
+    14
+
+        1015
+
+T3
+   790
+
+    14
+
+        1015
+
+T3
+   819
+
+    13
+
+        1015
+
+T3
+   819
+
+    13
+
+   819
+
+clear all
+T4
+Please enter the number n.3
+     3
+
+T4
+Please enter the number n.4
+     5
+
+T5
+Please enter the number n.2
+    1.5000
+
+    2.4951
+
+    3.5477
+
+T5
+Please enter the number n.2
+    1.5000
+
+     0
+
+    1.5000
+
+T5
+Please enter the number n.2
+    1.5000
+
+     0
+
+    1.5000
+
+T5
+Please enter the number n.2
+    1.5000
+
+     1
+
+    1.5000
+
+T5
+{<a href="matlab: opentoline('E:\Documents\MATLAB\P2-254321-ChenYiming\T5.m',15,8)">文件: T5.m 行: 15 列: 8</a>
+'=' 运算符的使用不正确。 '=' 用于为变量赋值，'==' 用于比较值的相等性。
+} 
+T5
+Please enter the number n.2
+    1.5000
+
+    1.5000
+
+    1.5000
+
+T7
+    1.7717
+
+clear all
+T8
+    0.0029
+    0.0030
+    0.0027
+    0.0026
+    0.0024
+    0.0031
+    0.0029
+    0.0030
+    0.0026
+    0.0030
+
+   2.3312e-04
+
+diary off

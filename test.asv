@@ -1,0 +1,11 @@
+i=1;
+summ=0;
+dx=input("dx=");
+while(i<2)
+summ=summ+(sin(i)/i)*dx;
+i=i+dx;
+end
+
+disp(summ);
+
+count 1:dx:2;

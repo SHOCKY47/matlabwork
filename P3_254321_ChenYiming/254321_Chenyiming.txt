@@ -1,0 +1,239 @@
+x=1
+
+x =
+
+     1
+
+doubles(x)
+
+ans =
+
+     2
+
+%%Q2. Write and test a function swop (x, y) which will exchange the values of its two input 
+%arguments. Make sure you print out the output on the screen for any two numbers entered x and
+%y.
+m=1
+
+m =
+
+     1
+
+n=2
+
+n =
+
+     2
+
+exchange(m,n)
+
+ans =
+
+     2
+
+[m,n]=exchange(m,n)
+
+m =
+
+     2
+
+
+n =
+
+     1
+
+A=[1 2,3 4]
+
+A =
+
+     1     2     3     4
+
+A=[1 2;3 4]
+
+A =
+
+     1     2
+     3     4
+
+diag(A)
+
+ans =
+
+     1
+     4
+
+%Q3. Given matrix A and vector b write a function file that returns f = A*b and a matrix 
+B where B has only nonzero entries on the diagonal and these values are the diagonal entries
+{函数或变量 'B' 无法识别。
+} 
+clc
+clear all
+A=[1 2 3;4 5 6;7 8 9]
+
+A =
+
+     1     2     3
+     4     5     6
+     7     8     9
+
+b=[1 0 0;0 1 0;0 0 1]
+
+b =
+
+     1     0     0
+     0     1     0
+     0     0     1
+
+[f,B]=optionQ3(A,B)
+{函数或变量 'B' 无法识别。
+} 
+[f,B]=optionQ3(A,b)
+
+f =
+
+     1     2     3
+     4     5     6
+     7     8     9
+
+
+B =
+
+     1
+     1
+     1
+
+Q4
+{函数或变量 'e' 无法识别。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Q4', 'E:\Documents\MATLAB\P3_254321_ChenYiming\Q4.m', 1)" style="font-weight:bold">Q4</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\P3_254321_ChenYiming\Q4.m',1,0)">第 1 行</a>)
+p(t)=197273000/(1+e^(-0.03134*(t-1913.25)));
+} 
+Q4
+{函数或变量 't' 无法识别。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Q4', 'E:\Documents\MATLAB\P3_254321_ChenYiming\Q4.m', 1)" style="font-weight:bold">Q4</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\P3_254321_ChenYiming\Q4.m',1,0)">第 1 行</a>)
+p(t)=197273000/(1+exp(-0.03134*(t-1913.25)));
+} 
+Q4
+{错误使用 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mrdivide')" style="font-weight:bold"> / </a>
+矩阵维度必须一致。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Q4', 'E:\Documents\MATLAB\P3_254321_ChenYiming\Q4.m', 2)" style="font-weight:bold">Q4</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\P3_254321_ChenYiming\Q4.m',2,0)">第 2 行</a>)
+p=197273000/(1+exp(-0.03134*(t-1913.25)));
+} 
+Q4
+{错误使用 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mrdivide')" style="font-weight:bold"> / </a>
+矩阵维度必须一致。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Q4', 'E:\Documents\MATLAB\P3_254321_ChenYiming\Q4.m', 2)" style="font-weight:bold">Q4</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\P3_254321_ChenYiming\Q4.m',2,0)">第 2 行</a>)
+y=197273000/(1+exp(-0.03134*(x-1913.25)));
+} 
+Q4
+{函数或变量 'linespace' 无法识别。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Q4', 'E:\Documents\MATLAB\P3_254321_ChenYiming\Q4.m', 1)" style="font-weight:bold">Q4</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\P3_254321_ChenYiming\Q4.m',1,0)">第 1 行</a>)
+x=linespace(1790,2000);
+} 
+Q4
+{错误使用 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mrdivide')" style="font-weight:bold"> / </a>
+矩阵维度必须一致。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Q4', 'E:\Documents\MATLAB\P3_254321_ChenYiming\Q4.m', 2)" style="font-weight:bold">Q4</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\P3_254321_ChenYiming\Q4.m',2,0)">第 2 行</a>)
+y=197273000/(1+exp(-0.03134*(x-1913.25)));
+} 
+opentoline('E:\Documents\MATLAB\P3_254321_ChenYiming\Q4.m',2,0)
+Q4
+Q4
+{错误使用 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mrdivide')" style="font-weight:bold"> / </a>
+矩阵维度必须一致。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Q4', 'E:\Documents\MATLAB\P3_254321_ChenYiming\Q4.m', 2)" style="font-weight:bold">Q4</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\P3_254321_ChenYiming\Q4.m',2,0)">第 2 行</a>)
+y=197273000/(1+exp((-0.03134)*(x-1913.25)));
+} 
+opentoline('E:\Documents\MATLAB\P3_254321_ChenYiming\Q4.m',2,0)
+opentoline('E:\Documents\MATLAB\P3_254321_ChenYiming\Q4.m',2,0)
+opentoline('E:\Documents\MATLAB\P3_254321_ChenYiming\Q4.m',2,0)
+opentoline('E:\Documents\MATLAB\P3_254321_ChenYiming\Q4.m',2,0)
+clear all
+Q4
+{错误使用 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mrdivide')" style="font-weight:bold"> / </a>
+矩阵维度必须一致。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Q4', 'E:\Documents\MATLAB\P3_254321_ChenYiming\Q4.m', 2)" style="font-weight:bold">Q4</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\P3_254321_ChenYiming\Q4.m',2,0)">第 2 行</a>)
+y=197273000/(1+exp((-0.03134)*(x-1913.25)));
+} 
+Q4
+{错误使用 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mrdivide')" style="font-weight:bold"> / </a>
+矩阵维度必须一致。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Q4', 'E:\Documents\MATLAB\P3_254321_ChenYiming\Q4.m', 2)" style="font-weight:bold">Q4</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\P3_254321_ChenYiming\Q4.m',2,0)">第 2 行</a>)
+y=1/(1+exp((-0.03134)*(x-1913.25)));
+} 
+Q4
+{错误使用 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mpower')" style="font-weight:bold"> ^ </a>
+用于对矩阵求幂的维度不正确。请检查并确保矩阵为方阵并且幂为标量。要单独对矩阵的每个元素进行运算，请使用 POWER (.^)执行按元素
+求幂。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Q4', 'E:\Documents\MATLAB\P3_254321_ChenYiming\Q4.m', 2)" style="font-weight:bold">Q4</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\P3_254321_ChenYiming\Q4.m',2,0)">第 2 行</a>)
+y=197273000/(1+2.7^((-0.03134)*(x-1913.25)));
+} 
+Q4
+{错误使用 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mrdivide')" style="font-weight:bold"> / </a>
+矩阵维度必须一致。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Q4', 'E:\Documents\MATLAB\P3_254321_ChenYiming\Q4.m', 5)" style="font-weight:bold">Q4</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\P3_254321_ChenYiming\Q4.m',5,0)">第 5 行</a>)
+y=A/(1+exp(B*(x+C)));
+} 
+Q4
+{错误使用 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mrdivide')" style="font-weight:bold"> / </a>
+矩阵维度必须一致。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Q4', 'E:\Documents\MATLAB\P3_254321_ChenYiming\Q4.m', 6)" style="font-weight:bold">Q4</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\P3_254321_ChenYiming\Q4.m',6,0)">第 6 行</a>)
+y=1/x;
+} 
+Q4
+Q4
+Q4
+{错误使用 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot')" style="font-weight:bold">plot</a>
+向量长度必须相同。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Q4', 'E:\Documents\MATLAB\P3_254321_ChenYiming\Q4.m', 7)" style="font-weight:bold">Q4</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\P3_254321_ChenYiming\Q4.m',7,0)">第 7 行</a>)
+plot(1790:1950,p(t),'or')
+} 
+Q4
+{错误使用 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot')" style="font-weight:bold">plot</a>
+向量长度必须相同。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Q4', 'E:\Documents\MATLAB\P3_254321_ChenYiming\Q4.m', 7)" style="font-weight:bold">Q4</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\P3_254321_ChenYiming\Q4.m',7,0)">第 7 行</a>)
+plot(1790:10:1950,p(t),'or')
+} 
+Q4
+Q4
+Q4
+disp(p(t2))
+   1.0e+08 *
+
+  列 1 至 10
+
+    0.0406    0.0551    0.0746    0.1007    0.1352    0.1805    0.2389    0.3128    0.4044    0.5144
+
+  列 11 至 17
+
+    0.6421    0.7845    0.9362    1.0903    1.2395    1.3772    1.4989
+
+Q4
+{错误使用 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mrdivide')" style="font-weight:bold"> / </a>
+矩阵维度必须一致。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Q4', 'E:\Documents\MATLAB\P3_254321_ChenYiming\Q4.m', 6)" style="font-weight:bold">Q4</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\P3_254321_ChenYiming\Q4.m',6,0)">第 6 行</a>)
+p(t)=A/(1+exp(B.*(t+C)));
+} 
+Q4
+Q4
+Q4
+Q4
+Q4
+Q4
+Q4
+Q7
+√2>a
