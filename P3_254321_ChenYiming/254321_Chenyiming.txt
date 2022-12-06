@@ -237,3 +237,157 @@ Q4
 Q4
 Q7
 √2>a
+Q8
+Q8
+{错误使用 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mtimes')" style="font-weight:bold"> * </a>
+用于矩阵乘法的维度不正确。请检查并确保第一个矩阵中的列数与第二个矩阵中的行数匹配。要单独对矩阵的每个元素进行运算，请使用 TIMES (.*)执行按元素相乘。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Q8', 'E:\Documents\MATLAB\P3_254321_ChenYiming\Q8.m', 4)" style="font-weight:bold">Q8</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\P3_254321_ChenYiming\Q8.m',4,0)">第 4 行</a>)
+y=A*exp(t*tau);
+
+<a href="matlab:helpview('matlab','error_innerdim')" style="font-weight:bold">相关文档</a>
+} 
+Q8
+{错误使用 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mtimes')" style="font-weight:bold"> * </a>
+用于矩阵乘法的维度不正确。请检查并确保第一个矩阵中的列数与第二个矩阵中的行数匹配。要单独对矩阵的每个元素进行运算，请使用 TIMES (.*)执行按元素相乘。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Q8', 'E:\Documents\MATLAB\P3_254321_ChenYiming\Q8.m', 4)" style="font-weight:bold">Q8</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\P3_254321_ChenYiming\Q8.m',4,0)">第 4 行</a>)
+y=A*exp(t*tau);
+
+<a href="matlab:helpview('matlab','error_innerdim')" style="font-weight:bold">相关文档</a>
+} 
+Q8
+
+A =
+
+     1
+
+Q8
+
+A =
+
+     2
+
+Q8
+Q8
+Q8
+Q8
+Q8
+Q8
+Q8
+Q8
+Q8
+Q8
+Q8
+Q8
+Q8
+Q8
+Q8
+Q8
+Q8
+Q8
+Q8
+Q8
+Q4
+Q4
+Q8
+Q8
+Q8
+Q8
+Q8
+Q1
+Please enter the number X that you want to double2
+Q1
+Please enter the number X that you want to doubler
+2
+     4
+
+Q1
+Please enter the number X that you want to doubler
+2
+The result after doubling is4
+Q1
+Please enter the number X that you want to doubler
+2
+The result after doubling is 4
+Q1
+Please enter the number X that you want to doubler
+2
+The result after doubling is 4 .
+Q2
+Enter the two numbers you want to swap2,3
+{错误使用 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Q2')" style="font-weight:bold">Q2</a>
+无效表达式。请检查缺失的乘法运算符、缺失或不对称的分隔符或者其他语法错误。要构造矩阵，请使用方括号而不是圆括号。
+} 
+Enter the two numbers you want to swap2 3
+ 2 3
+   ↑
+{无效表达式。请检查缺失的乘法运算符、缺失或不对称的分隔符或者其他语法错误。要构造矩阵，请使用方括号而不是圆括号。
+} 
+Enter the two numbers you want to swap23
+{等号右侧的输出数目不足，不满足赋值要求。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Q2', 'E:\Documents\MATLAB\P3_254321_ChenYiming\Q2.m', 1)" style="font-weight:bold">Q2</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\P3_254321_ChenYiming\Q2.m',1,0)">第 1 行</a>)
+[m,n]=input('Enter the two numbers you want to swap');
+} 
+Enter the two numbers you want to swap2
+{等号右侧的输出数目不足，不满足赋值要求。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Q2', 'E:\Documents\MATLAB\P3_254321_ChenYiming\Q2.m', 1)" style="font-weight:bold">Q2</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\P3_254321_ChenYiming\Q2.m',1,0)">第 1 行</a>)
+[m,n]=input('Enter the two numbers you want to swap');
+} 
+Enter the two numbers you want to swap3
+{等号右侧的输出数目不足，不满足赋值要求。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Q2', 'E:\Documents\MATLAB\P3_254321_ChenYiming\Q2.m', 1)" style="font-weight:bold">Q2</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\P3_254321_ChenYiming\Q2.m',1,0)">第 1 行</a>)
+[m,n]=input('Enter the two numbers you want to swap');
+} 
+Enter the two numbers you want to swap[2,3]
+{等号右侧的输出数目不足，不满足赋值要求。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Q2', 'E:\Documents\MATLAB\P3_254321_ChenYiming\Q2.m', 1)" style="font-weight:bold">Q2</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\P3_254321_ChenYiming\Q2.m',1,0)">第 1 行</a>)
+[m,n]=input('Enter the two numbers you want to swap');
+} 
+Enter the two numbers you want to swap 2,3
+{错误使用 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Q2')" style="font-weight:bold">Q2</a>
+无效表达式。请检查缺失的乘法运算符、缺失或不对称的分隔符或者其他语法错误。要构造矩阵，请使用方括号而不是圆括号。
+} 
+Enter the two numbers you want to swap 2 3
+  2 3
+    ↑
+{无效表达式。请检查缺失的乘法运算符、缺失或不对称的分隔符或者其他语法错误。要构造矩阵，请使用方括号而不是圆括号。
+} 
+Enter the two numbers you want to swap [2,3]
+{等号右侧的输出数目不足，不满足赋值要求。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Q2', 'E:\Documents\MATLAB\P3_254321_ChenYiming\Q2.m', 1)" style="font-weight:bold">Q2</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\P3_254321_ChenYiming\Q2.m',1,0)">第 1 行</a>)
+X=input('Enter the two numbers you want to swap');
+} 
+Enter the two numbers you want to swap 2,3
+{错误使用 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Q2')" style="font-weight:bold">Q2</a>
+无效表达式。请检查缺失的乘法运算符、缺失或不对称的分隔符或者其他语法错误。要构造矩阵，请使用方括号而不是圆括号。
+} 
+Enter the two numbers you want to swap 2 3
+  2 3
+    ↑
+{无效表达式。请检查缺失的乘法运算符、缺失或不对称的分隔符或者其他语法错误。要构造矩阵，请使用方括号而不是圆括号。
+} 
+Enter the two numbers you want to swap2
+{等号右侧的输出数目不足，不满足赋值要求。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Q2', 'E:\Documents\MATLAB\P3_254321_ChenYiming\Q2.m', 1)" style="font-weight:bold">Q2</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\P3_254321_ChenYiming\Q2.m',1,0)">第 1 行</a>)
+X=input('Enter the two numbers you want to swap');
+} 
+Enter the two numbers you want to swap2 3
+ 2 3
+   ↑
+{无效表达式。请检查缺失的乘法运算符、缺失或不对称的分隔符或者其他语法错误。要构造矩阵，请使用方括号而不是圆括号。
+} 
+Enter the two numbers you want to swap[1 2]
+{等号右侧的输出数目不足，不满足赋值要求。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Q2', 'E:\Documents\MATLAB\P3_254321_ChenYiming\Q2.m', 1)" style="font-weight:bold">Q2</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\P3_254321_ChenYiming\Q2.m',1,0)">第 1 行</a>)
+X=input('Enter the two numbers you want to swap');
+} 
+Enter the two numbers you want to swap{操作在以下过程中被用户终止 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Q2')" style="font-weight:bold">Q2</a>
+} 
