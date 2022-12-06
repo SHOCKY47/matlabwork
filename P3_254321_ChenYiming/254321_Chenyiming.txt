@@ -391,3 +391,689 @@ X=input('Enter the two numbers you want to swap');
 } 
 Enter the two numbers you want to swap{操作在以下过程中被用户终止 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Q2')" style="font-weight:bold">Q2</a>
 } 
+clear all
+Q3
+Please enter matrix A.
+[1 2 3;4 5 6;7 8 9]
+Please enter matrix b.
+[1 2 3;4 5 6;7 8 9]
+{函数或变量 'option3' 无法识别。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Q3', 'E:\Documents\MATLAB\P3_254321_ChenYiming\Q3.m', 3)" style="font-weight:bold">Q3</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\P3_254321_ChenYiming\Q3.m',3,0)">第 3 行</a>)
+[A,b]=option3(A,b);
+} 
+Q3
+Please enter matrix A.
+[1 2 3;4 5 6;7 8 9]
+Please enter matrix b.
+[1 2 3;4 5 6;7 8 9]
+{函数或变量 'option3' 无法识别。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Q3', 'E:\Documents\MATLAB\P3_254321_ChenYiming\Q3.m', 3)" style="font-weight:bold">Q3</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\P3_254321_ChenYiming\Q3.m',3,0)">第 3 行</a>)
+[A,b]=option3(A,b);
+} 
+Q3
+Please enter matrix A.
+[1 2 3;4 5 6;7 8 9]
+Please enter matrix b.
+[1 2 3;4 5 6;7 8 9]
+{函数或变量 'option3' 无法识别。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Q3', 'E:\Documents\MATLAB\P3_254321_ChenYiming\Q3.m', 3)" style="font-weight:bold">Q3</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\P3_254321_ChenYiming\Q3.m',3,0)">第 3 行</a>)
+option3(A,b);
+} 
+Q3
+Please enter matrix A.
+[1 2 3;4 5 6;7 8 9]
+Please enter matrix b.
+[1 2 3;4 5 6;7 8 9]
+{函数或变量 'option3' 无法识别。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Q3', 'E:\Documents\MATLAB\P3_254321_ChenYiming\Q3.m', 3)" style="font-weight:bold">Q3</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\P3_254321_ChenYiming\Q3.m',3,0)">第 3 行</a>)
+[A,b]=option3(A,b);
+} 
+Q3
+Please enter matrix A.
+[1 2 3;4 5 6;7 8 9]
+Please enter matrix b.
+[1 2 3;4 5 6;7 8 9]
+{函数或变量 'option3' 无法识别。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Q3', 'E:\Documents\MATLAB\P3_254321_ChenYiming\Q3.m', 3)" style="font-weight:bold">Q3</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\P3_254321_ChenYiming\Q3.m',3,0)">第 3 行</a>)
+[f,B]=option3(A,b);
+} 
+[f,B]=option3(A,b)
+{函数或变量 'option3' 无法识别。
+} 
+Q3
+Please enter matrix A.
+
+Please enter matrix b.
+
+{函数或变量 'optionq3' 无法识别。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Q3', 'E:\Documents\MATLAB\P3_254321_ChenYiming\Q3.m', 3)" style="font-weight:bold">Q3</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\P3_254321_ChenYiming\Q3.m',3,0)">第 3 行</a>)
+[f,B]=optionq3(A,b);
+} 
+
+Q3
+Please enter matrix A.
+[1 2 3;4 5 6;7 8 9]
+Please enter matrix b.
+[1 2 3;4 5 6;7 8 9]
+{错误使用 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('horzcat')" style="font-weight:bold">horzcat</a>
+要串联的数组的维度不一致。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Q3', 'E:\Documents\MATLAB\P3_254321_ChenYiming\Q3.m', 5)" style="font-weight:bold">Q3</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\P3_254321_ChenYiming\Q3.m',5,0)">第 5 行</a>)
+disp(['The result is A=',num2str(A),'\n B=',num2str(b)]);
+} 
+Q3
+Please enter matrix A.
+[1 2 3;4 5 6;7 8 9]
+Please enter matrix b.
+[1 2 3;4 5 6;7 8 9]
+{错误使用 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('horzcat')" style="font-weight:bold">horzcat</a>
+要串联的数组的维度不一致。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Q3', 'E:\Documents\MATLAB\P3_254321_ChenYiming\Q3.m', 5)" style="font-weight:bold">Q3</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\P3_254321_ChenYiming\Q3.m',5,0)">第 5 行</a>)
+disp(['The result is A=',A,'\n B=',B]);
+} 
+Q3
+Please enter matrix A.
+[1 2 3;4 5 6;7 8 9]
+Please enter matrix b.
+[1 2 3;4 5 6;7 8 9]
+    30    36    42     1
+    66    81    96     5
+   102   126   150     9
+
+Q3
+Please enter matrix A.
+[1 2 3;4 5 6;7 8 9]
+Please enter matrix b.
+[1 2 3;4 5 6;7 8 9]
+    30    36    42
+    66    81    96
+   102   126   150
+
+     1
+     5
+     9
+
+Q3
+Please enter matrix A.
+[1 2 3;4 5 6;7 8 9]
+Please enter matrix b.
+[1 2 3;4 5 6;7 8 9]
+After the operation of Question 3, f=\n
+    30    36    42
+    66    81    96
+   102   126   150
+
+After the operation of Question 3, B=\n
+     1
+     5
+     9
+
+Q3
+Please enter matrix A.
+[1 2 3;4 5 6;7 8 9]
+Please enter matrix b.
+[1 2 3;4 5 6;7 8 9]
+After the operation of Question 3, f= \n
+    30    36    42
+    66    81    96
+   102   126   150
+
+After the operation of Question 3, B= \n
+     1
+     5
+     9
+
+Q3
+Please enter matrix A.
+[1 2 3;4 5 6;7 8 9]
+Please enter matrix b.
+[1 2 3;4 5 6;7 8 9]
+After the operation of Question 3, f= \n
+    30    36    42
+    66    81    96
+   102   126   150
+
+After the operation of Question 3, B= \n
+     1
+     5
+     9
+
+Q3
+Please enter matrix A.
+[1 2 3;4 5 6;7 8 9]
+Please enter matrix b.
+[1 2 3;4 5 6;7 8 9]
+After the operation of Question 3, f= 
+    30    36    42
+    66    81    96
+   102   126   150
+
+After the operation of Question 3, B= 
+     1
+     5
+     9
+
+Q3
+Please enter matrix A.
+[1 2 3;4 5 6;7 8 9]
+Please enter matrix b.
+[1 2 3;4 5 6;7 8 9]
+After the operation of Question 3,\n f= 
+    30    36    42
+    66    81    96
+   102   126   150
+
+After the operation of Question 3,\n B= 
+     1
+     5
+     9
+
+Q3
+Please enter matrix A.
+[1 2 3;4 5 6;7 8 9]
+Please enter matrix b.
+[1 2 3;4 5 6;7 8 9]
+After the operation of Question 3,\r f= 
+    30    36    42
+    66    81    96
+   102   126   150
+
+After the operation of Question 3,\r B= 
+     1
+     5
+     9
+
+Q3
+Please enter matrix A.
+[1 2 3;4 5 6;7 8 9]
+Please enter matrix b.
+[1 2 3;4 5 6;7 8 9]
+After the operation of Question 3, f= 
+    30    36    42
+    66    81    96
+   102   126   150
+
+After the operation of Question 3, B= 
+     1
+     5
+     9
+
+Q3
+Please enter matrix A.
+[1 2 3;4 5 6;7 8 9]
+Please enter matrix b.
+[1 2 3;4 5 6;7 8 9]
+After the operation of Question 3:\r\n f= 
+    30    36    42
+    66    81    96
+   102   126   150
+
+After the operation of Question 3:\r\n B= 
+     1
+     5
+     9
+
+Q3
+Please enter matrix A.
+Please enter matrix b.
+
+After the operation of Question 3:\r\n f= 
+After the operation of Question 3:\r\n B= 
+Q3
+Please enter matrix A.
+[1 2 3;4 5 6;7 8 9]
+Please enter matrix b.
+[1 2 3;4 5 6;7 8 9]
+After the operation of Question 3:\n
+f=
+    30    36    42
+    66    81    96
+   102   126   150
+
+After the operation of Question 3:\n
+B=
+     1
+     5
+     9
+
+Q3
+Please enter matrix A.
+%%此处在调试换行符，出现一定的BUG
+{错误使用 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Q3')" style="font-weight:bold">Q3</a>
+错误: 表达式无效。请检查缺失或多余的字符。
+} 
+Please enter matrix A.
+
+Please enter matrix b.
+
+After the operation of Question 3:\n
+f=
+After the operation of Question 3:\n
+B=
+help subpot
+--- 未找到 <strong>subpot</strong>。改为显示 <strong>subplot</strong> 的帮助。---
+
+ <strong>subplot</strong> - 在各个分块位置创建坐标区
+    此 MATLAB 函数 将当前图窗划分为 m×n 网格，并在 p 指定的位置创建坐标区。MATLAB 按行
+    号对子图位置进行编号。第一个子图是第一行的第一列，第二个子图是第一行的第二列，依此类
+    推。如果指定的位置已存在坐标区，则此命令会将该坐标区设为当前坐标区。
+
+    <strong>subplot</strong>(m,n,p)
+    <strong>subplot</strong>(m,n,p,'replace')
+    <strong>subplot</strong>(m,n,p,'align')
+    <strong>subplot</strong>(m,n,p,ax)
+
+    <strong>subplot</strong>('Position',pos)
+
+    <strong>subplot</strong>(___,Name,Value)
+    ax = <strong>subplot</strong>(___)
+
+    <strong>subplot</strong>(ax)
+
+    输入参数
+        <a href="D:\MATLAB\R2022a\help\matlab\ref/subplot.html#btw1t4b-1-m">m</a> - 网格行数
+            1 (默认值) | 正整数
+        <a href="D:\MATLAB\R2022a\help\matlab\ref/subplot.html#btw1t4b-1-n">n</a> - 网格列数
+            1 (默认值) | 正整数
+        <a href="D:\MATLAB\R2022a\help\matlab\ref/subplot.html#btw1t4b-1-p">p</a> - 新坐标区的网格位置
+            标量 | 向量
+        <a href="D:\MATLAB\R2022a\help\matlab\ref/subplot.html#btw1t4b-1-pos">pos</a> - 新坐标区的自定义位置
+            四元素向量
+        <a href="D:\MATLAB\R2022a\help\matlab\ref/subplot.html#btw1t4b-1-ax">ax</a> - 要设为当前坐标区或转换为子图的现有坐标区
+            Axes 对象 | PolarAxes 对象 | GeographicAxes 对象 | 图形对象
+
+    打开示例
+        <a href="matlab:openExample('graphics/UpperandLowerSubplotsExample')">上部和下部子图</a>
+        <a href="matlab:openExample('graphics/QuadrantofSubplotsExample')">子图的象限</a>
+        <a href="matlab:openExample('graphics/SubplotswithDifferentSizesExample')">大小不同的子图</a>
+        <a href="matlab:openExample('graphics/ReplacingSubplotsExample')">将子图替换为空坐标区</a>
+        <a href="matlab:openExample('graphics/SubplotsatSpecifiedPositionsExample')">自定义位置上的子图</a>
+        <a href="matlab:openExample('graphics/SubplotswithPolarAxesExample')">创建包含极坐标区的子图</a>
+        <a href="matlab:openExample('graphics/ReturnSubplotAxesHandleExample')">创建后修改坐标区属性</a>
+        <a href="matlab:openExample('graphics/MakeAxestheCurrentAxesExample')">使子图成为当前坐标区</a>
+        <a href="matlab:openExample('graphics/ConvertAxesIntoSubplotExample')">将现有坐标区转换为子图</a>
+
+    See also <a href="matlab:help axes -displayBanner">axes</a>, <a href="matlab:help cla -displayBanner">cla</a>, <a href="matlab:help clf -displayBanner">clf</a>, <a href="matlab:help figure -displayBanner">figure</a>, <a href="matlab:help gca -displayBanner">gca</a>, <a href="matlab:help tiledlayout -displayBanner">tiledlayout</a>, <a href="matlab:help nexttile -displayBanner">nexttile</a>, <a href="D:\MATLAB\R2022a\help\matlab\ref\matlab.graphics.axis.axes-properties.html">Axes 属性</a>,
+        <a href="D:\MATLAB\R2022a\help\matlab\ref\matlab.graphics.axis.polaraxes-properties.html">PolarAxes 属性</a>, <a href="D:\MATLAB\R2022a\help\matlab\ref\matlab.graphics.axis.geographicaxes-properties.html">GeographicAxes 属性</a>
+
+    在 R2006a 之前引入
+    <a href="matlab:doc subplot">subplot 的文档</a>
+
+uiopen('C:\Users\Shocky\AppData\Local\Temp\Rar$DIa23512.10168\T8.m',1)
+clc
+help subplot
+ <strong>subplot</strong> - 在各个分块位置创建坐标区
+    此 MATLAB 函数 将当前图窗划分为 m×n 网格，并在 p 指定的位置创建坐标区。MATLAB 按行
+    号对子图位置进行编号。第一个子图是第一行的第一列，第二个子图是第一行的第二列，依此类
+    推。如果指定的位置已存在坐标区，则此命令会将该坐标区设为当前坐标区。
+
+    <strong>subplot</strong>(m,n,p)
+    <strong>subplot</strong>(m,n,p,'replace')
+    <strong>subplot</strong>(m,n,p,'align')
+    <strong>subplot</strong>(m,n,p,ax)
+
+    <strong>subplot</strong>('Position',pos)
+
+    <strong>subplot</strong>(___,Name,Value)
+    ax = <strong>subplot</strong>(___)
+
+    <strong>subplot</strong>(ax)
+
+    输入参数
+        <a href="D:\MATLAB\R2022a\help\matlab\ref/subplot.html#btw1t4b-1-m">m</a> - 网格行数
+            1 (默认值) | 正整数
+        <a href="D:\MATLAB\R2022a\help\matlab\ref/subplot.html#btw1t4b-1-n">n</a> - 网格列数
+            1 (默认值) | 正整数
+        <a href="D:\MATLAB\R2022a\help\matlab\ref/subplot.html#btw1t4b-1-p">p</a> - 新坐标区的网格位置
+            标量 | 向量
+        <a href="D:\MATLAB\R2022a\help\matlab\ref/subplot.html#btw1t4b-1-pos">pos</a> - 新坐标区的自定义位置
+            四元素向量
+        <a href="D:\MATLAB\R2022a\help\matlab\ref/subplot.html#btw1t4b-1-ax">ax</a> - 要设为当前坐标区或转换为子图的现有坐标区
+            Axes 对象 | PolarAxes 对象 | GeographicAxes 对象 | 图形对象
+
+    打开示例
+        <a href="matlab:openExample('graphics/UpperandLowerSubplotsExample')">上部和下部子图</a>
+        <a href="matlab:openExample('graphics/QuadrantofSubplotsExample')">子图的象限</a>
+        <a href="matlab:openExample('graphics/SubplotswithDifferentSizesExample')">大小不同的子图</a>
+        <a href="matlab:openExample('graphics/ReplacingSubplotsExample')">将子图替换为空坐标区</a>
+        <a href="matlab:openExample('graphics/SubplotsatSpecifiedPositionsExample')">自定义位置上的子图</a>
+        <a href="matlab:openExample('graphics/SubplotswithPolarAxesExample')">创建包含极坐标区的子图</a>
+        <a href="matlab:openExample('graphics/ReturnSubplotAxesHandleExample')">创建后修改坐标区属性</a>
+        <a href="matlab:openExample('graphics/MakeAxestheCurrentAxesExample')">使子图成为当前坐标区</a>
+        <a href="matlab:openExample('graphics/ConvertAxesIntoSubplotExample')">将现有坐标区转换为子图</a>
+
+    See also <a href="matlab:help axes -displayBanner">axes</a>, <a href="matlab:help cla -displayBanner">cla</a>, <a href="matlab:help clf -displayBanner">clf</a>, <a href="matlab:help figure -displayBanner">figure</a>, <a href="matlab:help gca -displayBanner">gca</a>, <a href="matlab:help tiledlayout -displayBanner">tiledlayout</a>, <a href="matlab:help nexttile -displayBanner">nexttile</a>, <a href="D:\MATLAB\R2022a\help\matlab\ref\matlab.graphics.axis.axes-properties.html">Axes 属性</a>,
+        <a href="D:\MATLAB\R2022a\help\matlab\ref\matlab.graphics.axis.polaraxes-properties.html">PolarAxes 属性</a>, <a href="D:\MATLAB\R2022a\help\matlab\ref\matlab.graphics.axis.geographicaxes-properties.html">GeographicAxes 属性</a>
+
+    在 R2006a 之前引入
+    <a href="matlab:doc subplot">subplot 的文档</a>
+
+help subplot
+ <strong>subplot</strong> - 在各个分块位置创建坐标区
+    此 MATLAB 函数 将当前图窗划分为 m×n 网格，并在 p 指定的位置创建坐标区。MATLAB 按行
+    号对子图位置进行编号。第一个子图是第一行的第一列，第二个子图是第一行的第二列，依此类
+    推。如果指定的位置已存在坐标区，则此命令会将该坐标区设为当前坐标区。
+
+    <strong>subplot</strong>(m,n,p)
+    <strong>subplot</strong>(m,n,p,'replace')
+    <strong>subplot</strong>(m,n,p,'align')
+    <strong>subplot</strong>(m,n,p,ax)
+
+    <strong>subplot</strong>('Position',pos)
+
+    <strong>subplot</strong>(___,Name,Value)
+    ax = <strong>subplot</strong>(___)
+
+    <strong>subplot</strong>(ax)
+
+    输入参数
+        <a href="D:\MATLAB\R2022a\help\matlab\ref/subplot.html#btw1t4b-1-m">m</a> - 网格行数
+            1 (默认值) | 正整数
+        <a href="D:\MATLAB\R2022a\help\matlab\ref/subplot.html#btw1t4b-1-n">n</a> - 网格列数
+            1 (默认值) | 正整数
+        <a href="D:\MATLAB\R2022a\help\matlab\ref/subplot.html#btw1t4b-1-p">p</a> - 新坐标区的网格位置
+            标量 | 向量
+        <a href="D:\MATLAB\R2022a\help\matlab\ref/subplot.html#btw1t4b-1-pos">pos</a> - 新坐标区的自定义位置
+            四元素向量
+        <a href="D:\MATLAB\R2022a\help\matlab\ref/subplot.html#btw1t4b-1-ax">ax</a> - 要设为当前坐标区或转换为子图的现有坐标区
+            Axes 对象 | PolarAxes 对象 | GeographicAxes 对象 | 图形对象
+
+    打开示例
+        <a href="matlab:openExample('graphics/UpperandLowerSubplotsExample')">上部和下部子图</a>
+        <a href="matlab:openExample('graphics/QuadrantofSubplotsExample')">子图的象限</a>
+        <a href="matlab:openExample('graphics/SubplotswithDifferentSizesExample')">大小不同的子图</a>
+        <a href="matlab:openExample('graphics/ReplacingSubplotsExample')">将子图替换为空坐标区</a>
+        <a href="matlab:openExample('graphics/SubplotsatSpecifiedPositionsExample')">自定义位置上的子图</a>
+        <a href="matlab:openExample('graphics/SubplotswithPolarAxesExample')">创建包含极坐标区的子图</a>
+        <a href="matlab:openExample('graphics/ReturnSubplotAxesHandleExample')">创建后修改坐标区属性</a>
+        <a href="matlab:openExample('graphics/MakeAxestheCurrentAxesExample')">使子图成为当前坐标区</a>
+        <a href="matlab:openExample('graphics/ConvertAxesIntoSubplotExample')">将现有坐标区转换为子图</a>
+
+    See also <a href="matlab:help axes -displayBanner">axes</a>, <a href="matlab:help cla -displayBanner">cla</a>, <a href="matlab:help clf -displayBanner">clf</a>, <a href="matlab:help figure -displayBanner">figure</a>, <a href="matlab:help gca -displayBanner">gca</a>, <a href="matlab:help tiledlayout -displayBanner">tiledlayout</a>, <a href="matlab:help nexttile -displayBanner">nexttile</a>, <a href="D:\MATLAB\R2022a\help\matlab\ref\matlab.graphics.axis.axes-properties.html">Axes 属性</a>,
+        <a href="D:\MATLAB\R2022a\help\matlab\ref\matlab.graphics.axis.polaraxes-properties.html">PolarAxes 属性</a>, <a href="D:\MATLAB\R2022a\help\matlab\ref\matlab.graphics.axis.geographicaxes-properties.html">GeographicAxes 属性</a>
+
+    在 R2006a 之前引入
+    <a href="matlab:doc subplot">subplot 的文档</a>
+
+help subplot
+ <strong>subplot</strong> - 在各个分块位置创建坐标区
+    此 MATLAB 函数 将当前图窗划分为 m×n 网格，并在 p 指定的位置创建坐标区。MATLAB 按行
+    号对子图位置进行编号。第一个子图是第一行的第一列，第二个子图是第一行的第二列，依此类
+    推。如果指定的位置已存在坐标区，则此命令会将该坐标区设为当前坐标区。
+
+    <strong>subplot</strong>(m,n,p)
+    <strong>subplot</strong>(m,n,p,'replace')
+    <strong>subplot</strong>(m,n,p,'align')
+    <strong>subplot</strong>(m,n,p,ax)
+
+    <strong>subplot</strong>('Position',pos)
+
+    <strong>subplot</strong>(___,Name,Value)
+    ax = <strong>subplot</strong>(___)
+
+    <strong>subplot</strong>(ax)
+
+    输入参数
+        <a href="D:\MATLAB\R2022a\help\matlab\ref/subplot.html#btw1t4b-1-m">m</a> - 网格行数
+            1 (默认值) | 正整数
+        <a href="D:\MATLAB\R2022a\help\matlab\ref/subplot.html#btw1t4b-1-n">n</a> - 网格列数
+            1 (默认值) | 正整数
+        <a href="D:\MATLAB\R2022a\help\matlab\ref/subplot.html#btw1t4b-1-p">p</a> - 新坐标区的网格位置
+            标量 | 向量
+        <a href="D:\MATLAB\R2022a\help\matlab\ref/subplot.html#btw1t4b-1-pos">pos</a> - 新坐标区的自定义位置
+            四元素向量
+        <a href="D:\MATLAB\R2022a\help\matlab\ref/subplot.html#btw1t4b-1-ax">ax</a> - 要设为当前坐标区或转换为子图的现有坐标区
+            Axes 对象 | PolarAxes 对象 | GeographicAxes 对象 | 图形对象
+
+    打开示例
+        <a href="matlab:openExample('graphics/UpperandLowerSubplotsExample')">上部和下部子图</a>
+        <a href="matlab:openExample('graphics/QuadrantofSubplotsExample')">子图的象限</a>
+        <a href="matlab:openExample('graphics/SubplotswithDifferentSizesExample')">大小不同的子图</a>
+        <a href="matlab:openExample('graphics/ReplacingSubplotsExample')">将子图替换为空坐标区</a>
+        <a href="matlab:openExample('graphics/SubplotsatSpecifiedPositionsExample')">自定义位置上的子图</a>
+        <a href="matlab:openExample('graphics/SubplotswithPolarAxesExample')">创建包含极坐标区的子图</a>
+        <a href="matlab:openExample('graphics/ReturnSubplotAxesHandleExample')">创建后修改坐标区属性</a>
+        <a href="matlab:openExample('graphics/MakeAxestheCurrentAxesExample')">使子图成为当前坐标区</a>
+        <a href="matlab:openExample('graphics/ConvertAxesIntoSubplotExample')">将现有坐标区转换为子图</a>
+
+    See also <a href="matlab:help axes -displayBanner">axes</a>, <a href="matlab:help cla -displayBanner">cla</a>, <a href="matlab:help clf -displayBanner">clf</a>, <a href="matlab:help figure -displayBanner">figure</a>, <a href="matlab:help gca -displayBanner">gca</a>, <a href="matlab:help tiledlayout -displayBanner">tiledlayout</a>, <a href="matlab:help nexttile -displayBanner">nexttile</a>, <a href="D:\MATLAB\R2022a\help\matlab\ref\matlab.graphics.axis.axes-properties.html">Axes 属性</a>,
+        <a href="D:\MATLAB\R2022a\help\matlab\ref\matlab.graphics.axis.polaraxes-properties.html">PolarAxes 属性</a>, <a href="D:\MATLAB\R2022a\help\matlab\ref\matlab.graphics.axis.geographicaxes-properties.html">GeographicAxes 属性</a>
+
+    在 R2006a 之前引入
+    <a href="matlab:doc subplot">subplot 的文档</a>
+
+help subplot
+ <strong>subplot</strong> - 在各个分块位置创建坐标区
+    此 MATLAB 函数 将当前图窗划分为 m×n 网格，并在 p 指定的位置创建坐标区。MATLAB 按行
+    号对子图位置进行编号。第一个子图是第一行的第一列，第二个子图是第一行的第二列，依此类
+    推。如果指定的位置已存在坐标区，则此命令会将该坐标区设为当前坐标区。
+
+    <strong>subplot</strong>(m,n,p)
+    <strong>subplot</strong>(m,n,p,'replace')
+    <strong>subplot</strong>(m,n,p,'align')
+    <strong>subplot</strong>(m,n,p,ax)
+
+    <strong>subplot</strong>('Position',pos)
+
+    <strong>subplot</strong>(___,Name,Value)
+    ax = <strong>subplot</strong>(___)
+
+    <strong>subplot</strong>(ax)
+
+    输入参数
+        <a href="D:\MATLAB\R2022a\help\matlab\ref/subplot.html#btw1t4b-1-m">m</a> - 网格行数
+            1 (默认值) | 正整数
+        <a href="D:\MATLAB\R2022a\help\matlab\ref/subplot.html#btw1t4b-1-n">n</a> - 网格列数
+            1 (默认值) | 正整数
+        <a href="D:\MATLAB\R2022a\help\matlab\ref/subplot.html#btw1t4b-1-p">p</a> - 新坐标区的网格位置
+            标量 | 向量
+        <a href="D:\MATLAB\R2022a\help\matlab\ref/subplot.html#btw1t4b-1-pos">pos</a> - 新坐标区的自定义位置
+            四元素向量
+        <a href="D:\MATLAB\R2022a\help\matlab\ref/subplot.html#btw1t4b-1-ax">ax</a> - 要设为当前坐标区或转换为子图的现有坐标区
+            Axes 对象 | PolarAxes 对象 | GeographicAxes 对象 | 图形对象
+
+    打开示例
+        <a href="matlab:openExample('graphics/UpperandLowerSubplotsExample')">上部和下部子图</a>
+        <a href="matlab:openExample('graphics/QuadrantofSubplotsExample')">子图的象限</a>
+        <a href="matlab:openExample('graphics/SubplotswithDifferentSizesExample')">大小不同的子图</a>
+        <a href="matlab:openExample('graphics/ReplacingSubplotsExample')">将子图替换为空坐标区</a>
+        <a href="matlab:openExample('graphics/SubplotsatSpecifiedPositionsExample')">自定义位置上的子图</a>
+        <a href="matlab:openExample('graphics/SubplotswithPolarAxesExample')">创建包含极坐标区的子图</a>
+        <a href="matlab:openExample('graphics/ReturnSubplotAxesHandleExample')">创建后修改坐标区属性</a>
+        <a href="matlab:openExample('graphics/MakeAxestheCurrentAxesExample')">使子图成为当前坐标区</a>
+        <a href="matlab:openExample('graphics/ConvertAxesIntoSubplotExample')">将现有坐标区转换为子图</a>
+
+    See also <a href="matlab:help axes -displayBanner">axes</a>, <a href="matlab:help cla -displayBanner">cla</a>, <a href="matlab:help clf -displayBanner">clf</a>, <a href="matlab:help figure -displayBanner">figure</a>, <a href="matlab:help gca -displayBanner">gca</a>, <a href="matlab:help tiledlayout -displayBanner">tiledlayout</a>, <a href="matlab:help nexttile -displayBanner">nexttile</a>, <a href="D:\MATLAB\R2022a\help\matlab\ref\matlab.graphics.axis.axes-properties.html">Axes 属性</a>,
+        <a href="D:\MATLAB\R2022a\help\matlab\ref\matlab.graphics.axis.polaraxes-properties.html">PolarAxes 属性</a>, <a href="D:\MATLAB\R2022a\help\matlab\ref\matlab.graphics.axis.geographicaxes-properties.html">GeographicAxes 属性</a>
+
+    在 R2006a 之前引入
+    <a href="matlab:doc subplot">subplot 的文档</a>
+
+Q8
+Q8
+Q8
+Q5
+{错误使用 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mtimes')" style="font-weight:bold"> * </a>
+用于矩阵乘法的维度不正确。请检查并确保第一个矩阵中的列数与第二个矩阵中的行数匹配。要单独对矩阵的每个元素进行运算，请使用 TIMES (.*)执行按元素相乘。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Q5', 'E:\Documents\MATLAB\P3_254321_ChenYiming\Q5.m', 3)" style="font-weight:bold">Q5</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\P3_254321_ChenYiming\Q5.m',3,0)">第 3 行</a>)
+y1=exp((-2.5)*x)*sin(10*x);
+
+<a href="matlab:helpview('matlab','error_innerdim')" style="font-weight:bold">相关文档</a>
+} 
+Q5
+{错误使用 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mtimes')" style="font-weight:bold"> * </a>
+用于矩阵乘法的维度不正确。请检查并确保第一个矩阵中的列数与第二个矩阵中的行数匹配。要单独对矩阵的每个元素进行运算，请使用 TIMES (.*)执行按元素相乘。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Q5', 'E:\Documents\MATLAB\P3_254321_ChenYiming\Q5.m', 3)" style="font-weight:bold">Q5</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\P3_254321_ChenYiming\Q5.m',3,0)">第 3 行</a>)
+y1=exp((-2.5)*x)*sin(10*x);
+
+<a href="matlab:helpview('matlab','error_innerdim')" style="font-weight:bold">相关文档</a>
+} 
+Q5
+Q6
+{错误使用 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mpower')" style="font-weight:bold"> ^ </a>
+用于对矩阵求幂的维度不正确。请检查并确保矩阵为方阵并且幂为标量。要单独对矩阵的每个元素进行运算，请使用 POWER (.^)执行按元素求幂。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Q6', 'E:\Documents\MATLAB\P3_254321_ChenYiming\Q6.m', 2)" style="font-weight:bold">Q6</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\P3_254321_ChenYiming\Q6.m',2,0)">第 2 行</a>)
+y1=x^2;
+} 
+Q6
+Q6
+Q6
+test
+clear all
+test
+test
+test
+[警告: 创建或更新 Patch 时出错
+ 属性  <a href="matlab:matlab.internal.doc.reference.showPropertyHelp('matlab.graphics.primitive.Patch','FaceVertexCData');")">FaceVertexCData</a> 的值中有错误
+ 颜色数目必须等于顶点数目或面数目] 
+clear all
+test
+[警告: 创建或更新 Patch 时出错
+ 属性  <a href="matlab:matlab.internal.doc.reference.showPropertyHelp('matlab.graphics.primitive.Patch','FaceVertexCData');")">FaceVertexCData</a> 的值中有错误
+ 颜色数目必须等于顶点数目或面数目] 
+test
+test
+test
+{错误使用 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('patch')" style="font-weight:bold">patch</a>
+类 Patch 的属性 r 无法识别。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('test', 'E:\Documents\MATLAB\test.m', 9)" style="font-weight:bold">test</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\test.m',9,0)">第 9 行</a>)
+patch('faces',p,'vertices',v,'facevertexcdata',jet(size(v,1)),'facecolor','w','r','flat');
+} 
+test
+{错误使用 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('patch')" style="font-weight:bold">patch</a>
+类 Patch 的属性 r 无法识别。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('test', 'E:\Documents\MATLAB\test.m', 9)" style="font-weight:bold">test</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\test.m',9,0)">第 9 行</a>)
+patch('faces',p,'vertices',v,'facevertexcdata',jet(size(v,1)),'facecolor','w','r','flat');
+} 
+test
+test
+{函数或变量 'cbrt' 无法识别。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('test', 'E:\Documents\MATLAB\test.m', 2)" style="font-weight:bold">test</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\test.m',2,0)">第 2 行</a>)
+f = cbrt(t .* 2) - 0.9 .* sqrt(3.3 - t.*2) .* sin(2.*pi.*t.*20);
+} 
+test
+{无法解析名称 'plt.plot'。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('test', 'E:\Documents\MATLAB\test.m', 3)" style="font-weight:bold">test</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\test.m',3,0)">第 3 行</a>)
+plt.plot(t, fx)
+} 
+test
+{函数或变量 'fx' 无法识别。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('test', 'E:\Documents\MATLAB\test.m', 3)" style="font-weight:bold">test</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\test.m',3,0)">第 3 行</a>)
+plot(t, fx);
+} 
+test
+[警告: 复数 X 和/或 Y 参数的虚部已忽略。] 
+[> 位置：<a href="matlab:matlab.internal.language.introspective.errorDocCallback('test', 'E:\Documents\MATLAB\test.m', 3)" style="font-weight:bold">test</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\test.m',3,0)">第 3 行</a>)] 
+{无法解析名称 'plt.grid'。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('test', 'E:\Documents\MATLAB\test.m', 4)" style="font-weight:bold">test</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\test.m',4,0)">第 4 行</a>)
+plt.grid(True)
+} 
+test
+[警告: 复数 X 和/或 Y 参数的虚部已忽略。] 
+[> 位置：<a href="matlab:matlab.internal.language.introspective.errorDocCallback('test', 'E:\Documents\MATLAB\test.m', 3)" style="font-weight:bold">test</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\test.m',3,0)">第 3 行</a>)] 
+test
+{错误使用 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mpower')" style="font-weight:bold"> ^ </a>
+用于对矩阵求幂的维度不正确。请检查并确保矩阵为方阵并且幂为标量。要单独对矩阵的每个元素进行运算，请使用 POWER (.^)执行按元素求幂。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('test', 'E:\Documents\MATLAB\test.m', 2)" style="font-weight:bold">test</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\test.m',2,0)">第 2 行</a>)
+f = t.^(2/3) - 0.9 .* sqrt(3.3 - t^2) .* sin(2.*pi.*t.*20);
+} 
+test
+{错误使用 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mpower')" style="font-weight:bold"> ^ </a>
+用于对矩阵求幂的维度不正确。请检查并确保矩阵为方阵并且幂为标量。要单独对矩阵的每个元素进行运算，请使用 POWER (.^)执行按元素求幂。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('test', 'E:\Documents\MATLAB\test.m', 2)" style="font-weight:bold">test</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\test.m',2,0)">第 2 行</a>)
+f = t.^(2/3) - 0.9 .* sqrt(3.3 - t^2) .* sin(2.*pi.*t.*20);
+} 
+test
+[警告: 复数 X 和/或 Y 参数的虚部已忽略。] 
+[> 位置：<a href="matlab:matlab.internal.language.introspective.errorDocCallback('test', 'E:\Documents\MATLAB\test.m', 3)" style="font-weight:bold">test</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\test.m',3,0)">第 3 行</a>)] 
+test
+[警告: 复数 X 和/或 Y 参数的虚部已忽略。] 
+[> 位置：<a href="matlab:matlab.internal.language.introspective.errorDocCallback('test', 'E:\Documents\MATLAB\test.m', 3)" style="font-weight:bold">test</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\test.m',3,0)">第 3 行</a>)] 
+test
+[警告: 复数 X 和/或 Y 参数的虚部已忽略。] 
+[> 位置：<a href="matlab:matlab.internal.language.introspective.errorDocCallback('test', 'E:\Documents\MATLAB\test.m', 7)" style="font-weight:bold">test</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\test.m',7,0)">第 7 行</a>)] 
+test
+[警告: 复数 X 和/或 Y 参数的虚部已忽略。] 
+[> 位置：<a href="matlab:matlab.internal.language.introspective.errorDocCallback('test', 'E:\Documents\MATLAB\test.m', 3)" style="font-weight:bold">test</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\test.m',3,0)">第 3 行</a>)] 
+test
+test
+[警告: 复数 X 和/或 Y 参数的虚部已忽略。] 
+[> 位置：<a href="matlab:matlab.internal.language.introspective.errorDocCallback('test', 'E:\Documents\MATLAB\test.m', 6)" style="font-weight:bold">test</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\test.m',6,0)">第 6 行</a>)] 
+test
+[警告: 复数 X 和/或 Y 参数的虚部已忽略。] 
+[> 位置：<a href="matlab:matlab.internal.language.introspective.errorDocCallback('test', 'E:\Documents\MATLAB\test.m', 7)" style="font-weight:bold">test</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\test.m',7,0)">第 7 行</a>)] 
+test
+[警告: 复数 X 和/或 Y 参数的虚部已忽略。] 
+[> 位置：<a href="matlab:matlab.internal.language.introspective.errorDocCallback('test', 'E:\Documents\MATLAB\test.m', 3)" style="font-weight:bold">test</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\test.m',3,0)">第 3 行</a>)] 
+test
+[警告: 复数 X 和/或 Y 参数的虚部已忽略。] 
+[> 位置：<a href="matlab:matlab.internal.language.introspective.errorDocCallback('test', 'E:\Documents\MATLAB\test.m', 3)" style="font-weight:bold">test</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\test.m',3,0)">第 3 行</a>)] 
+test
+[警告: 复数 X 和/或 Y 参数的虚部已忽略。] 
+[> 位置：<a href="matlab:matlab.internal.language.introspective.errorDocCallback('test', 'E:\Documents\MATLAB\test.m', 3)" style="font-weight:bold">test</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\test.m',3,0)">第 3 行</a>)] 
+test
+[警告: 复数 X 和/或 Y 参数的虚部已忽略。] 
+[> 位置：<a href="matlab:matlab.internal.language.introspective.errorDocCallback('test', 'E:\Documents\MATLAB\test.m', 3)" style="font-weight:bold">test</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\test.m',3,0)">第 3 行</a>)] 
+test
+[警告: 复数 X 和/或 Y 参数的虚部已忽略。] 
+[> 位置：<a href="matlab:matlab.internal.language.introspective.errorDocCallback('test', 'E:\Documents\MATLAB\test.m', 3)" style="font-weight:bold">test</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\test.m',3,0)">第 3 行</a>)] 
+test
+[警告: 复数 X 和/或 Y 参数的虚部已忽略。] 
+[> 位置：<a href="matlab:matlab.internal.language.introspective.errorDocCallback('test', 'E:\Documents\MATLAB\test.m', 3)" style="font-weight:bold">test</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\test.m',3,0)">第 3 行</a>)] 
+test
+{错误使用 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mpower')" style="font-weight:bold"> ^ </a>
+用于对矩阵求幂的维度不正确。请检查并确保矩阵为方阵并且幂为标量。要单独对矩阵的每个元素进行运算，请使用 POWER (.^)执行按元素求幂。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('test', 'E:\Documents\MATLAB\test.m', 2)" style="font-weight:bold">test</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\test.m',2,0)">第 2 行</a>)
+f = t.^(2/3) - 0.9 .* sqrt(3.3 - t^2) .* sin(2.*pi.*t.*10);
+} 
+test
+{错误使用 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mpower')" style="font-weight:bold"> ^ </a>
+用于对矩阵求幂的维度不正确。请检查并确保矩阵为方阵并且幂为标量。要单独对矩阵的每个元素进行运算，请使用 POWER (.^)执行按元素求幂。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('test', 'E:\Documents\MATLAB\test.m', 2)" style="font-weight:bold">test</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\test.m',2,0)">第 2 行</a>)
+f = t.^(2/3) - 0.9 .* sqrt(3.3 - t^2) .* sin(2.*pi.*t.*10);
+} 
+test
+{错误使用 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mpower')" style="font-weight:bold"> ^ </a>
+用于对矩阵求幂的维度不正确。请检查并确保矩阵为方阵并且幂为标量。要单独对矩阵的每个元素进行运算，请使用 POWER (.^)执行按元素求幂。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('test', 'E:\Documents\MATLAB\test.m', 2)" style="font-weight:bold">test</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\test.m',2,0)">第 2 行</a>)
+f = t.^(2/3) - 0.9 .* sqrt(3.3 - t^2) .* sin(2.*pi.*t.*10);
+} 
+test
+[警告: 复数 X 和/或 Y 参数的虚部已忽略。] 
+[> 位置：<a href="matlab:matlab.internal.language.introspective.errorDocCallback('test', 'E:\Documents\MATLAB\test.m', 3)" style="font-weight:bold">test</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\test.m',3,0)">第 3 行</a>)] 
+Q6
+{函数或变量 'x3' 无法识别。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Q6', 'E:\Documents\MATLAB\P3_254321_ChenYiming\Q6.m', 11)" style="font-weight:bold">Q6</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\P3_254321_ChenYiming\Q6.m',11,0)">第 11 行</a>)
+plot(x,y1,x,y2,x3,y3);
+} 
+Q6
+Q6
+Q6
+Q6
+Q6
+Q6
+Q6
+Q6
+diary off
