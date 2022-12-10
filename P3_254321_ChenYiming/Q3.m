@@ -1,3 +1,5 @@
+clear;
+
 A=input('Please enter matrix A.\n');
 b=input('Please enter matrix b.\n');
 [f,B]=optionQ3(A,b);

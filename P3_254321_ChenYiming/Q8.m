@@ -1,3 +1,5 @@
+clear;
+
 grid on;
 tiledlayout(2,2);
 t=linspace(0,10);

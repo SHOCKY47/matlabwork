@@ -1,3 +1,5 @@
+clear;
+
 format long
 a=2;
 for i=1:8

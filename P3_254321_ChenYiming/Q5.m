@@ -1,3 +1,5 @@
+clear;
+
 subplot(2,1,1);
 x=linspace(0,10);
 y1=exp((-2.5).*x).*sin(10.*x);
