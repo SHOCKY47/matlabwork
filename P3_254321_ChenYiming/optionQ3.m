@@ -1,6 +1,6 @@
 %function for Q3
 
-function [A,b]=optionQ3(A,b)
-A=A*b;
-b=diag(b);
+function [f,B]=optionQ3(A,b)
+f=A*b;
+B=diag(A);
 end
