@@ -1,0 +1,109 @@
+dir
+
+.                        ..                       254321_Chenyiming.txt    Exercise_1.slx           Exercise_1.slx.autosave  
+
+Exercise_1.slx
+{无法解析名称 'Exercise_1.slx'。
+} 
+Exercise_1
+Exercise_1
+Exercise_1
+sim
+{命令语法错误。请参阅 SIM 命令了解详细信息
+} 
+simOut=sim(Exercise_1)
+{'model' 参数必须为字符向量
+} 
+simOut=sim('Exercise_1')
+
+simOut = 
+
+  <a href="matlab: help Simulink.SimulationOutput">Simulink.SimulationOutput</a>:
+
+                   tout: [56x1 double] 
+
+     SimulationMetadata: [1x1 Simulink.SimulationMetadata] 
+           ErrorMessage: [0x0 char] 
+
+help Simulink.SimulationOutput
+ <strong>Simulink.SimulationOutput</strong> - 访问仿真结果
+    <strong>Simulink.SimulationOutput</strong> 对象包括所有记录的仿真数据和说明仿真条件的
+    SimulationMetadata 对象。<strong>Simulink.SimulationOutput</strong> 对象还包含关于仿真、仿真运
+    行时间的有用元数据。您可以使用 <strong>Simulink.SimulationOutput</strong> 对象来检查仿真结果，也可
+    以使用 <strong>Simulink.SimulationOutput</strong> 对象上的 plot 函数来可视化结果。对于使用
+    Simulink 中的运行或步进按钮调用的仿真，<strong>Simulink.SimulationOutput</strong> 对象存储在基础
+    工作区中，其名称在模型参数中指定。<strong>Simulink.SimulationOutput</strong> 是可写的。
+
+    See also <a href="matlab:help Simulink.SimulationData.Dataset -displayBanner">Simulink.SimulationData.Dataset</a>, <a href="matlab:help loadIntoMemory -displayBanner">loadIntoMemory</a>,
+        <a href="matlab:help Simulink.SimulationMetadata -displayBanner">Simulink.SimulationMetadata</a>, <a href="matlab:help sim -displayBanner">sim</a>
+
+    在 R2010a 中引入
+    <a href="matlab:help Simulink.SimulationOutput/SimulationOutput -displayBanner">Simulink.SimulationOutput 对象详细信息</a>
+    <a href="matlab:doc Simulink.SimulationOutput">Simulink.SimulationOutput 的文档</a>
+
+simOut=parsim(Exercise_1)
+{SimulationInput 必须为 Simulink.SimulationInput 对象组成的非空数组
+} 
+simOut=parsim('Exercise_1')
+{需要至少一个 SimulationInput 才能进行仿真。
+} 
+in=Exercise_1
+
+in =
+
+     1
+     0
+     0
+     0
+     0
+     0
+     2
+
+simOut=parsim(in)
+{SimulationInput 必须为 Simulink.SimulationInput 对象组成的非空数组
+} 
+in=Simulink.SimulationInput('Exercise_1')
+
+in = 
+
+  <a href="matlab:helpPopup Simulink.SimulationInput" style="font-weight:bold">SimulationInput</a> - 属性:
+
+          ModelName: 'Exercise_1'
+       InitialState: [0×0 Simulink.op.ModelOperatingPoint]
+      ExternalInput: []
+    ModelParameters: [0×0 Simulink.Simulation.ModelParameter]
+    BlockParameters: [0×0 Simulink.Simulation.BlockParameter]
+          Variables: [0×0 Simulink.Simulation.Variable]
+          PreSimFcn: []
+         PostSimFcn: []
+         UserString: ''
+
+in = in.setModelParameter('SimulationMode', 'rapid-accelerator');
+in = in.setModelParameter('RapidAcceleratorUpToDateCheck', 'off');
+out=parsim(in)
+[15-Dec-2022 03:26:55] 正在检查并行池的可用性...
+[15-Dec-2022 03:26:55] 正在运行仿真...
+### 为模型编译快速加速模式目标: Exercise_1
+### 已成功编译模型 Exercise_1 的快速加速目标
+
+编译摘要
+
+编译的顶层模型快速加速目标:
+
+模型          操作        重新编译原因        
+====================================
+Exercise_1  生成和编译的代码  代码生成信息文件不存在。  
+
+编译了 1 个模型，共 1 个模型(0 个模型已经是最新的)
+编译持续时间: 0h 0m 34.505s
+[15-Dec-2022 03:28:16] 已完成 1 次仿真运行，共 1 次
+
+out = 
+
+  <a href="matlab: help Simulink.SimulationOutput">Simulink.SimulationOutput</a>:
+
+                   tout: [56x1 double] 
+
+     SimulationMetadata: [1x1 Simulink.SimulationMetadata] 
+           ErrorMessage: [0x0 char] 
+
