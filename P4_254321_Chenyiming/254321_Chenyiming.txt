@@ -107,3 +107,38 @@ out =
      SimulationMetadata: [1x1 Simulink.SimulationMetadata] 
            ErrorMessage: [0x0 char] 
 
+[警告: 计算 CCaller block '<a href="matlab:open_and_hilite_hyperlink ('Exercise_3/User-Defined Functions/C Caller','error')">Exercise_3/User-Defined Functions/C Caller</a>' 的 <a href="matlab:Simulink.internal.OpenCallbackParamsDialog(['Exercise_3/User-Defined Functions/C Caller'],'CopyFcn');">'CopyFcn'</a> 回调时出错。
+回调字符串为 'set_param(gcbh,'LinkStatus','none');
+set_param(gcbh', 'CopyFcn', '')'] 
+[警告: 只能为链接模块设置 LinkStatus] 
+[警告: 计算 CFunction block (mask) '<a href="matlab:open_and_hilite_hyperlink ('Exercise_3/User-Defined Functions/C Function','error')">Exercise_3/User-Defined Functions/C Function</a>' 的 <a href="matlab:Simulink.internal.OpenCallbackParamsDialog(['Exercise_3/User-Defined Functions/C Function'],'CopyFcn');">'CopyFcn'</a> 回调时出错。
+回调字符串为 'set_param(gcbh,'LinkStatus','none');
+set_param(gcbh', 'CopyFcn', '')'] 
+[警告: 只能为链接模块设置 LinkStatus] 
+[警告: 计算 Initialize Function Subsystem block (mask) '<a href="matlab:open_and_hilite_hyperlink ('Exercise_3/User-Defined Functions/Initialize Function','error')">Exercise_3/User-Defined Functions/Initialize Function</a>' 的 <a href="matlab:Simulink.internal.OpenCallbackParamsDialog(['Exercise_3/User-Defined Functions/Initialize Function'],'CopyFcn');">'CopyFcn'</a> 回调时出错。
+回调字符串为 'set_param(gcbh,'LinkStatus','breakWithoutHierarchy'); set_param(gcbh,'Mask','off'); set_param(gcbh,'MaskType',''); set_param(gcbh,'MaskDescription','');
+set_param(gcbh,'OpenFcn',''); set_param(gcbh,'CopyFcn','')'] 
+[警告: 只能为链接模块设置 LinkStatus] 
+[警告: 计算 Reinitialize Function Subsystem block (mask) '<a href="matlab:open_and_hilite_hyperlink ('Exercise_3/User-Defined Functions/Reinitialize Function','error')">Exercise_3/User-Defined Functions/Reinitialize Function</a>' 的 <a href="matlab:Simulink.internal.OpenCallbackParamsDialog(['Exercise_3/User-Defined Functions/Reinitialize Function'],'CopyFcn');">'CopyFcn'</a> 回调时出错。
+回调字符串为 'set_param(gcbh,'LinkStatus','breakWithoutHierarchy'); set_param(gcbh,'Mask','off'); set_param(gcbh,'MaskType',''); set_param(gcbh,'MaskDescription','');
+set_param(gcbh,'OpenFcn',''); set_param(gcbh,'CopyFcn','')'] 
+[警告: 只能为链接模块设置 LinkStatus] 
+[警告: 计算 Reset Function Subsystem block (mask) '<a href="matlab:open_and_hilite_hyperlink ('Exercise_3/User-Defined Functions/Reset Function','error')">Exercise_3/User-Defined Functions/Reset Function</a>' 的 <a href="matlab:Simulink.internal.OpenCallbackParamsDialog(['Exercise_3/User-Defined Functions/Reset Function'],'CopyFcn');">'CopyFcn'</a> 回调时出错。
+回调字符串为 'set_param(gcbh,'LinkStatus','breakWithoutHierarchy'); set_param(gcbh,'Mask','off'); set_param(gcbh,'MaskType',''); set_param(gcbh,'MaskDescription','');
+set_param(gcbh,'OpenFcn',''); set_param(gcbh,'CopyFcn','')'] 
+[警告: 只能为链接模块设置 LinkStatus] 
+[警告: 计算 S-Function Builder block (mask) '<a href="matlab:open_and_hilite_hyperlink ('Exercise_3/User-Defined Functions/S-Function Builder','error')">Exercise_3/User-Defined Functions/S-Function Builder</a>' 的 <a href="matlab:Simulink.internal.OpenCallbackParamsDialog(['Exercise_3/User-Defined Functions/S-Function Builder'],'CopyFcn');">'CopyFcn'</a> 回调时出错。
+回调字符串为 'set_param(gcbh,'LinkStatus','none')'] 
+[警告: 只能为链接模块设置 LinkStatus] 
+[警告: 计算 Simulink Function Subsystem block (mask) '<a href="matlab:open_and_hilite_hyperlink ('Exercise_3/User-Defined Functions/Simulink Function','error')">Exercise_3/User-Defined Functions/Simulink Function</a>' 的 <a href="matlab:Simulink.internal.OpenCallbackParamsDialog(['Exercise_3/User-Defined Functions/Simulink Function'],'CopyFcn');">'CopyFcn'</a> 回调时出错。
+回调字符串为 'set_param(gcbh,'LinkStatus','breakWithoutHierarchy'); set_param(gcbh,'Mask','off'); set_param(gcbh,'MaskType',''); set_param(gcbh,'MaskDescription','');
+set_param(gcbh,'OpenFcn',''); set_param(gcbh,'CopyFcn','')'] 
+[警告: 只能为链接模块设置 LinkStatus] 
+[警告: 计算 Terminate Function Subsystem block (mask) '<a href="matlab:open_and_hilite_hyperlink ('Exercise_3/User-Defined Functions/Terminate Function','error')">Exercise_3/User-Defined Functions/Terminate Function</a>' 的 <a href="matlab:Simulink.internal.OpenCallbackParamsDialog(['Exercise_3/User-Defined Functions/Terminate Function'],'CopyFcn');">'CopyFcn'</a> 回调时出错。
+回调字符串为 'set_param(gcbh,'LinkStatus','breakWithoutHierarchy'); set_param(gcbh,'Mask','off'); set_param(gcbh,'MaskType',''); set_param(gcbh,'MaskDescription','');
+set_param(gcbh,'OpenFcn',''); set_param(gcbh,'CopyFcn','')'] 
+[警告: 只能为链接模块设置 LinkStatus] 
+ShowName on
+{函数或变量 'ShowName' 无法识别。
+} 
+diary off
