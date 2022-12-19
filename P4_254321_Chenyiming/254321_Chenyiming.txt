@@ -142,3 +142,4 @@ ShowName on
 {函数或变量 'ShowName' 无法识别。
 } 
 diary off
+diary off
