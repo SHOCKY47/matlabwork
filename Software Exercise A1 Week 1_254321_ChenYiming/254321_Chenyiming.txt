@@ -1,0 +1,50 @@
+%%fuck covid_2019 .
+%%Don't talk to me about elegance. I have a fever of 40 degrees.
+%%本次作业为本人独立完成，完成过程已经上传github,仓库地址：https://github.com/SHOCKY47/matlabwork
+clc
+Problem_1
+Please entry your candidate number254321
+{错误使用 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('idivide>idivide_check')" style="font-weight:bold">idivide>idivide_check</a>
+必须至少有一个参数属于整数类。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('idivide', 'D:\MATLAB\R2022a\toolbox\matlab\ops\idivide.m', 42)" style="font-weight:bold">idivide</a> (<a href="matlab: opentoline('D:\MATLAB\R2022a\toolbox\matlab\ops\idivide.m',42,0)">第 42 行</a>)
+idivide_check(a,b);
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Problem_1', 'E:\Documents\MATLAB\Software Exercise A1 Week 1_254321_ChenYiming\Problem_1.m', 2)" style="font-weight:bold">Problem_1</a> (<a href="matlab: opentoline('E:\Documents\MATLAB\Software Exercise A1 Week 1_254321_ChenYiming\Problem_1.m',2,0)">第 2 行</a>)
+A=idivide(n,10000);
+} 
+Problem_1
+Please entry your candidate number254321
+whos
+  Name      Size            Bytes  Class     Attributes
+
+  A         1x1                 4  int32               
+  B         1x1                 4  int32               
+  C         1x1                 4  int32               
+  N         1x1                 4  int32               
+  n         1x1                 8  double              
+
+uiopen('E:\Documents\WeChat Files\wxid_2yspimlbsy4d22\FileStorage\File\2022-12\t1.mdl',1)
+uiopen('E:\Documents\WeChat Files\wxid_2yspimlbsy4d22\FileStorage\File\2022-12\t1.mdl',1)
+uiopen('E:\Documents\WeChat Files\wxid_2yspimlbsy4d22\FileStorage\File\2022-12\t1.mdl',1)
+size(n)
+
+ans =
+
+     1     1
+
+weight(n)
+{函数或变量 'weight' 无法识别。
+} 
+height(n)
+
+ans =
+
+     1
+
+width(n)
+
+ans =
+
+     1
+

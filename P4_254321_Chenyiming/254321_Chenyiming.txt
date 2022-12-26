@@ -1,3 +1,5 @@
+%%%%本次作业为本人独立完成，完成过程已经上传github,仓库地址：https://github.com/SHOCKY47/matlabwork
+
 dir
 
 .                        ..                       254321_Chenyiming.txt    Exercise_1.slx           Exercise_1.slx.autosave  
