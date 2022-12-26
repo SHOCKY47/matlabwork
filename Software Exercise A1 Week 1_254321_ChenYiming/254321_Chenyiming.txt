@@ -47,4 +47,121 @@ width(n)
 ans =
 
      1
+Problem_2
+The number of employees below $32,500 is 20 .
+The number of employees above $32,500 is 10 .
+The average salary of employees is 30000 .
+The number of employees below $32,500 is 20 .
+The number of employees above $32,500 is 20 .
+The average salary of employees is 30000 .
+Problem_2
+USE LOOP VERSION:
+The number of employees whose salaries are below $32,500 is 20 .
+The number of employees whose salaries are above $32,500 is 10 .
+The average salary of employees is 30000 .
+
+USE VECTORIZATION VERSION:
+The number of employees whose salaries are below $32,500 is 20 .
+The number of employees whose salaries are above $32,500 is 10 .
+The average salary of employees is 30000 .
+Problem_2
+USE LOOP VERSION:
+The number of employees whose salaries are below $32,500 is 20 .
+The number of employees whose salaries are above $32,500 is 10 .
+The average salary of employees is 30000 .
+
+USE VECTORIZATION VERSION:
+The number of employees whose salaries are below $32,500 is 20 .
+The number of employees whose salaries are above $32,500 is 10 .
+The average salary of employees is 30000 .
+
+USE VECTORIZATION WITH CANDIDATE NUMBER VERSION:
+The number of employees whose salaries are below $32,500 is 11 .
+The number of employees whose salaries are above $32,500 is 6 .
+The average salary of employees is 3.058824e+04 .
+Problem_2
+USE LOOP VERSION:
+The number of employees whose salaries are below $32,500 is 20 .
+The number of employees whose salaries are above $32,500 is 10 .
+The average salary of employees is 30000 .
+
+USE VECTORIZATION VERSION:
+The number of employees whose salaries are below $32,500 is 20 .
+The number of employees whose salaries are above $32,500 is 10 .
+The average salary of employees is 30000 .
+
+USE VECTORIZATION WITH CANDIDATE NUMBER VERSION:
+The number of employees whose salaries are below $32,500 is 11 .
+The number of employees whose salaries are above $32,500 is 6 .
+The average salary of employees is 3.058824e+04 .
+Problem_2
+USE LOOP VERSION:
+The number of employees whose salaries are below $32,500 is 20 .
+The number of employees whose salaries are above $32,500 is 10 .
+The average salary of employees is 30000.000000 .
+
+USE VECTORIZATION VERSION:
+The number of employees whose salaries are below $32,500 is 20 .
+The number of employees whose salaries are above $32,500 is 10 .
+The average salary of employees is 30000.000000 .
+
+USE VECTORIZATION WITH CANDIDATE NUMBER VERSION:
+The number of employees whose salaries are below $32,500 is 11 .
+The number of employees whose salaries are above $32,500 is 6 .
+The average salary of employees is 30588.235294 .
+Problem_2
+USE LOOP VERSION:
+The number of employees whose salaries are below $32,500 is 20 .
+The number of employees whose salaries are above $32,500 is 10 .
+The average salary of employees is $30000.000000 .
+
+USE VECTORIZATION VERSION:
+The number of employees whose salaries are below $32,500 is 20 .
+The number of employees whose salaries are above $32,500 is 10 .
+The average salary of employees is $30000.000000 .
+
+USE VECTORIZATION WITH CANDIDATE NUMBER VERSION:
+The number of employees whose salaries are below $32,500 is 11 .
+The number of employees whose salaries are above $32,500 is 6 .
+The average salary of employees is $30588.235294 .
+Problem_2
+USE LOOP VERSION:
+The number of employees whose salaries are below $32,500 is 20 .
+The number of employees whose salaries are above $32,500 is 10 .
+The average salary of employees is $30000.000000 .
+
+USE VECTORIZATION VERSION:
+The number of employees whose salaries are below $32,500 is 20 .
+The number of employees whose salaries are above $32,500 is 10 .
+The average salary of employees is $30000.000000 .
+
+USE VECTORIZATION WITH CANDIDATE NUMBER VERSION:
+The number of employees whose salaries are below $32,500 is 11 .
+The number of employees whose salaries are above $32,500 is 6 .
+The average salary of employees is $30588.235294 .
+Problem_2
+USE LOOP VERSION:
+The number of employees whose salaries are below $32,500 is 20 .
+The number of employees whose salaries are above $32,500 is 10 .
+The average salary of employees is $30000.000000 .
+
+USE VECTORIZATION VERSION:
+The number of employees whose salaries are below $32,500 is 20 .
+The number of employees whose salaries are above $32,500 is 10 .
+The average salary of employees is $30000.000000 .
+
+USE VECTORIZATION WITH CANDIDATE NUMBER VERSION:
+The number of employees whose salaries are below $32,500 is 11 .
+The number of employees whose salaries are above $32,500 is 6 .
+The average salary of employees is $30588.235294 .
+Problem_1
+Please entry your candidate number.
+254321
+Gas usage 	 Price
+21 			 21.000000
+43 			 32.000000
+25 			 23.000000
+clc
+clear
+diary off
 
