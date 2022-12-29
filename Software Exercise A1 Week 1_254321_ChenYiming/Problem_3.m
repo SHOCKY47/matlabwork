@@ -14,7 +14,7 @@ switch flag
     case 3
         fprintf("Flag state: 3 ,two real roots x1=%f x2=%f.\n",x1,x2);
     case 4
-        fprintf("Flag state: 4 , two complex roots.\n");
+        fprintf("Flag state: 4 , two complex roots.\n");%Output virtual root
         fprintf("x1=\n");
         disp(x1);
         fprintf("x2=\n");

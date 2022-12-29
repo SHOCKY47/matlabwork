@@ -725,3 +725,122 @@ x(t):22.608865	time:4.439112
 y(t):13.102497	time:3.514537
 z(t):18.541408	time:3.977885
 >> 
+clc
+Problem_2
+USE LOOP VERSION:
+The number of employees whose salaries are below $32,500 is 20 .
+The number of employees whose salaries are above $32,500 is 10 .
+The average salary of employees is $30000.000000 .
+
+USE VECTORIZATION VERSION:
+The number of employees whose salaries are below $32,500 is 20 .
+The number of employees whose salaries are above $32,500 is 10 .
+The average salary of employees is $30000.000000 .
+
+USE VECTORIZATION WITH CANDIDATE NUMBER VERSION:
+The number of employees whose salaries are below $32,500 is 11 .
+The number of employees whose salaries are above $32,500 is 6 .
+The average salary of employees is $30588.235294 .
+clc
+Problem_3
+Solving quadratic equations
+enter a:
+0
+enter b:
+0
+enter c:
+0
+Flag state: 0 ,any x is a solution.
+Problem_3
+Solving quadratic equations
+enter a:
+0
+enter b:
+0
+enter c:
+1
+Flag state: 1 ,no solution.
+Problem_3
+Solving quadratic equations
+enter a:
+0
+enter b:
+2
+enter c:
+2
+Flag state: 2 ,one real root x=-1.000000.
+Problem_3
+Solving quadratic equations
+enter a:
+3
+enter b:
+6
+enter c:
+3
+Flag state: 3 ,two real roots x1=-1.000000 x2=-1.000000.
+Problem_3
+Solving quadratic equations
+enter a:
+2
+enter b:
+2
+enter c:
+-12
+Flag state: 3 ,two real roots x1=2.000000 x2=-3.000000.
+Problem_3
+Solving quadratic equations
+enter a:
+25
+enter b:
+43
+enter c:
+21
+Flag state: 4 , two complex roots.
+x1=
+ -0.860000000000000 + 0.316859590355097i
+
+x2=
+ -0.860000000000000 - 0.316859590355097i
+
+clc
+Problem_4
+Please enter matrix A :
+[2 -1 1;1 1 1;3 -1 -1]
+Please enter vector b :
+[4;3;1]
+
+The solution is:
+x=1.000000
+y=-0.000000
+z=2.000000
+
+Enter the candidate number version:
+The solution is:
+x=17.000000
+y=16.000000
+z=10.000000
+clc
+clear
+clc
+Problem_4
+Please enter matrix A :
+[2 -1 1;1 1 1;3 -1 -1]
+Please enter vector b :
+[4;3;1]
+
+The solution is:
+x=1.000000
+y=-0.000000
+z=2.000000
+
+Enter the candidate number version:
+The solution is:
+x=17.000000
+y=16.000000
+z=10.000000
+clc
+Problem_5
+The maximum values of :
+x(t):22.608865	time:4.439112
+y(t):13.102497	time:3.514537
+z(t):18.541408	time:3.977885

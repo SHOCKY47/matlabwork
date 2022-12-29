@@ -16,7 +16,7 @@ for i=0:200
     price(i+1)=Calculating_gas(consumption(i+1));
 end
 
-
+%The following code is used to make the image
 plot(consumption,price,'r');
 title("Comparison table of gas consumption and price");
 xlabel("Gas consumption");
