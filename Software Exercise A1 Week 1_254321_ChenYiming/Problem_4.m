@@ -12,7 +12,7 @@ fprintf("x=%f\ny=%f\nz=%f\n",out(1),out(2),out(3));
 
 fprintf("\n");
 fprintf("Enter the candidate number version:\n");
-A(:,[1 2])=A(:,[2 1]);
+A(:,[1 2])=A(:,[2 1]);%interchanges columns 1 and 2 of matrix 𝐴
 b=[25;43;21];
 out=A\b;
 fprintf("The solution is:\n");

@@ -1,4 +1,14 @@
-t = linspace(-sqrt(3.3), sqrt(3.3), 1000);
-f = t.^(2/3) - 0.9 .* sqrt(3.3 - t.^2) .* sin(2.*pi.*t.*10);
-plot(t, f);
-
+consu=0:1:200;
+y=[];
+for x=consu
+    if x<=50
+        y = [y,0.5 .* x + 10];
+    elseif x>50 && x<=100
+        y = [y,25 + x - 50 + 10];
+    else
+        y = [y,75 + 2 .* (x - 100) + 10];
+    end
+    
+end
+plot(consu,y);
+axis([0,200,0,300]);

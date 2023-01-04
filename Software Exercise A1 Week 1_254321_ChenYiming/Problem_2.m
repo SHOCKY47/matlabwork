@@ -2,19 +2,15 @@ Levels=[20000,25000,30000,35000,40000,50000];
 num_employees=[8,6,6,4,3,3];
 
 %for loop version
-fprintf("USE LOOP VERSION:\n");
-below=0;    %The number of employees below $32,500 recorded in below.
-above=0;    %The number of employees above $32,500 recorded in above.
-summ=0;     %The total amount of wages issued is recorded in summ.
-n_sum=0;    %The total number of people is recorded in n sum.
+fprintf("USE LOOP VERSION:\n");  
 for i=1:6
     if Levels(i)<32500
-        below =below+num_employees(i);
+        below =below+num_employees(i);%The number of employees below $32,500 recorded in below.
     else
-        above =above+num_employees(i);
+        above =above+num_employees(i);%The number of employees above $32,500 recorded in above.
     end
-    summ=summ+Levels(i).*num_employees(i);
-    n_sum=n_sum+num_employees(i);
+    summ=summ+Levels(i).*num_employees(i);%The total amount of wages issued is recorded in summ.
+    n_sum=n_sum+num_employees(i); %The total number of people is recorded in n sum.
 end
 ave=summ./n_sum;    %The average salary of employees is recorded in ave.
 fprintf("The number of employees whose salaries are below $32,500 is %d .\n",below);

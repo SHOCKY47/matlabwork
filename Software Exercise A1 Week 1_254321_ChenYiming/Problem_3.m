@@ -1,8 +1,8 @@
 clear;
 fprintf("Solving quadratic equations\n");
-a=input("enter a:\n");
-b=input("enter b:\n");
-c=input("enter c:\n");
+a=input("enter a: ");
+b=input("enter b: ");
+c=input("enter c: ");
 [x1,x2,flag]=slove(a,b,c);
 switch flag
     case 0

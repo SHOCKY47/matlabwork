@@ -28,6 +28,6 @@ elseif d==0
 else
     x1=(-b+d)/(2*a);
     x2=(-b-d)/(2*a);
-    flag=4;
+    flag=4; %matlab can make imaginary solutions, so the imaginary solutions will also be shown
 end
 end
